@@ -12,12 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "firstName": {
-      "type": "string"
-    },
-    "lastName": {
-      "type": "string"
-    },
     "profilePicture": {
       "type": "media",
       "multiple": false,
